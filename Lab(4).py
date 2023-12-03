@@ -17,4 +17,3 @@ breadth = float(input("Please enter breath of the rectangle:  "))
 
 area = (length * breadth)
 print("The Area of a Rectangle using:", length, "and", breadth, " = ", area)
-print("34")
